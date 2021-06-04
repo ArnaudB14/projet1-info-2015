@@ -1,0 +1,100 @@
+@font-face {
+	font-family: "Triforce";
+	src: url('../police/Triforce.ttf');
+
+}
+
+h1 {
+	font-family: "Triforce";
+	font-size : 80px;
+	margin: 0;
+}
+
+h2{
+	font-family: "triforce";
+}
+
+h3{
+	font-family: "Triforce";
+	margin-top: 30px;
+}
+
+h4{
+	font-family: "triforce";
+}
+
+html {
+	background: url(../Images/background1.jpg) center no-repeat;
+	background-size: 190%;
+	background-attachment: fixed;
+}
+
+body {
+	width: 1024px;
+	margin: auto;
+	background-color: rgba(255, 255, 240, 0.8);
+	padding: 3%;
+}
+
+header {
+	text-align: center;
+}
+
+nav {
+	font-family: "Triforce";
+	font-size : 25px;
+	/*margin-left: 5%;*/
+	/*margin-right: 5%;*/
+}
+
+nav li {
+	float: left;
+	padding: 2%;
+	list-style: none;
+	background-color: #639F63;
+	transition: 0.4s;
+}
+
+nav li:hover{
+	padding-left: 4%;
+	background-color:#6FA66F;
+}
+
+nav a {
+	margin: 0 20px;
+	text-decoration: none;
+	color: black;
+	transition: 0.4s;
+}
+
+nav a:hover{
+	color: white;
+}
+.triforce {
+	margin: 0 auto;
+	width: 70px;
+	height: 100%;
+	display: block;
+}
+
+.source {
+	text-align: right;
+	margin-right: 50px;
+}
+
+.source a {
+	text-decoration: none;
+	color: black;
+}
+.articles {
+	margin-bottom: 30px;
+	margin-top: 70px;
+}
+
+.articles article p {
+	margin-left: 20px;
+}
+
+#header {
+	margin-left: 20px;
+}

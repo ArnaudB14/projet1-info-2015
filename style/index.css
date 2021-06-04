@@ -1,0 +1,58 @@
+@@font-face {
+	font-family: "calibril";
+	src: url('./police/calibril.ttf');
+}
+
+#Facebook {
+	background-image: url(../Images/facebook.png);
+}
+#Google {
+	background-image: url(../Images/google.png);
+}
+#Twitter {
+	background-image: url(../Images/twitter.png);
+}
+
+.logo {
+	background-repeat: no-repeat;
+	width: 5%;
+	height: 5%;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 34px;
+}
+#video{
+	text-align: center;
+	padding-top: 4em;
+}
+
+figure {
+	width: 9%;
+	display: inline-block;
+	text-align: center;
+	margin-right: 5px;
+
+}
+
+figure img {
+	width:110%;
+}
+
+figcaption{
+	text-align: center;
+}
+
+#roi {
+	width: 13%;
+	float: right;
+	margin-left: 10px;
+}
+
+#header {
+	margin-left: 20px;
+	width: 80%;
+}
+
+footer{
+	font-size: 10px;
+}

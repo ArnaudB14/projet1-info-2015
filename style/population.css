@@ -1,0 +1,21 @@
+#zelda{
+  float: left;
+  width: 25%;
+  margin-top: -20px;
+}
+
+#link{
+  float: right;
+  width: 12%;
+  margin-top: -60px;
+  margin-left: 20px;
+}
+
+.link{
+  margin-top: 60px;
+}
+
+#goron{
+  width: 10%;
+  float: right;
+}
